@@ -20,7 +20,7 @@
     * 자원 관리
     * 시스템 관리
 
-  * 03 운영체제의 발전 과정과 유형
+  * [03 운영체제의 발전 과정과 유형](https://github.com/ERIN56/CS-STUDY/blob/master/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/C02%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%9D%98%20%EC%86%8C%EA%B0%9C/03%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%9D%98%20%EB%B0%9C%EC%A0%84%20%EA%B3%BC%EC%A0%95%EA%B3%BC%20%EC%9C%A0%ED%98%95.md)
 
   * 04 운영체제의 서비스
     * 부팅 서비스
