@@ -1,6 +1,21 @@
-## :bulb: 운영체제
+# :bulb: 운영체제
 
-### 💎 Chapter 01 컴퓨터 시스템의 소개
+### <img src="https://user-images.githubusercontent.com/83942393/125383261-1fbc3f00-e3d2-11eb-98d9-581efa78a790.png" width="5%" height="5%"></img> OS가 보이는 그림책
+---
+ * 0장 학습을 시작하기 전에
+ * 1장 OS의 기능
+ * 2장 CPU와 프로세스
+ * 3장 메모리 관리
+ * 4장 디스크 관리
+ * 5장 네트워크 관리
+ * 6장 Windows
+ * 7장 Linux
+ * 8장 Mac OS와 기타 OS
+ * 부록
+
+### <img src="https://user-images.githubusercontent.com/83942393/125384033-49c23100-e3d3-11eb-8357-1aac8fea61fc.png" width="6%" height="6%"></img> 운영체제(그림으로 배우는 구조와 원리)
+---
+#### 💎 Chapter 01 컴퓨터 시스템의 소개
   * 01 컴퓨터 하드웨어의 구성</br>
       * 프로세서
     * 메모리
@@ -13,7 +28,7 @@
     * 인터럽트 명렁어
   * 요약
 
-### 🔑 Chapter 02 운영체제의 소개
+#### 🔑 Chapter 02 운영체제의 소개
   * 01 운영체제의 개념과 발전 목적
 
   * 02 운영체제의 기능
@@ -35,7 +50,7 @@
 
   * 요약
   
-### 💎 Chapter 03 프로세스와 스레드
+#### 💎 Chapter 03 프로세스와 스레드
 
-### 🔑 Chapter 04 병행 프로세스와 상호배제
+#### 🔑 Chapter 04 병행 프로세스와 상호배제
   
