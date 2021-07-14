@@ -2,8 +2,8 @@
 
 ### <img src="https://user-images.githubusercontent.com/83942393/125383261-1fbc3f00-e3d2-11eb-98d9-581efa78a790.png" width="5%" height="5%"></img> OS가 보이는 그림책
 ---
- * 0장 학습을 시작하기 전에
- * 1장 OS의 기능
+ * [0장 학습을 시작하기 전에](https://github.com/ERIN56/CS-STUDY/blob/master/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/OS%EA%B0%80%20%EB%B3%B4%EC%9D%B4%EB%8A%94%20%EA%B7%B8%EB%A6%BC%EC%B1%85/0%EC%9E%A5.md)
+ * [1장 OS의 기능](https://github.com/ERIN56/CS-STUDY/blob/master/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/OS%EA%B0%80%20%EB%B3%B4%EC%9D%B4%EB%8A%94%20%EA%B7%B8%EB%A6%BC%EC%B1%85/1%EC%9E%A5.md)
  * 2장 CPU와 프로세스
  * 3장 메모리 관리
  * 4장 디스크 관리
