@@ -4,7 +4,7 @@
 </br>
 
 ## Contents
-* [인터넷의 원리](https://blog.naver.com/wngjs3/222053320101)
+* [인터넷의 원리 / LAN,WAN이란 무엇인가, ISP란? / 프로토콜과 TCP/IP 이해하기/ 물리 계층 : 데이터를 전기신호로! 아날로그 vs 디지털](https://blog.naver.com/wngjs3/222053320101)
 * [와이파이 원리](https://blog.naver.com/suk91ko/220318656831) </br>
 ----
 
