@@ -4,8 +4,8 @@
 ### <img src="https://user-images.githubusercontent.com/83942393/127474035-2d3d375a-d344-4328-bb83-f986cc5ff8af.png" width="7%" height="7%"></img> 쉽게 배우는 데이터 통신과 컴퓨터 네트워크
 ---
 ### Contents
-[Chaptor 01. 네트워크의 기초 용어와 기능](#Chaptor 01.)</br>
-[Chaptor 02. 네트워크 모델](#Chaptor 02.)</br>
+[Chaptor 01. 네트워크의 기초 용어와 기능](#Chaptor-01)</br>
+[Chaptor 02. 네트워크 모델](#Chaptor-02)</br>
 
 #### 💎 Chaptor 01. 네트워크의 기초 용어와 기능
   * 01 네트워크 관련 기초 용어
