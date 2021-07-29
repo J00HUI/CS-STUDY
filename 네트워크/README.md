@@ -5,7 +5,7 @@
 ---
 ### Contents
 [Chaptor 01. 네트워크의 기초 용어와 기능](#Chaptor-01) </br>
-[Chaptor 02. 네트워크 모델](#chaptor-02-네트워크 모델) </br>
+[Chaptor 02. 네트워크 모델](#chaptor-02) </br>
 
 #### 💎 Chaptor 01. 네트워크의 기초 용어와 기능
   * 01 네트워크 관련 기초 용어
