@@ -1,6 +1,10 @@
 # 💡 네트워크
 </br>
 
+* FTP
+
+---
+
 ### <img src="https://user-images.githubusercontent.com/83942393/127474035-2d3d375a-d344-4328-bb83-f986cc5ff8af.png" width="7%" height="7%"></img> 쉽게 배우는 데이터 통신과 컴퓨터 네트워크
 ---
 
