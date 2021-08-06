@@ -26,7 +26,7 @@
   * [요약](https://github.com/ERIN56/CS-STUDY/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%89%BD%EA%B2%8C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%86%B5%EC%8B%A0%EA%B3%BC%20%EC%BB%B4%ED%93%A8%ED%84%B0%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/chapter01_summary.md)   
   * [현장의 목소리 01 : 어려운 것과 익숙하지 않은 것](https://github.com/ERIN56/CS-STUDY/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%89%BD%EA%B2%8C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%86%B5%EC%8B%A0%EA%B3%BC%20%EC%BB%B4%ED%93%A8%ED%84%B0%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/chapter01_on_site_v.md)    
   
-#### 💎 Chaptor 02. 네트워크 모델
+#### 💎 [Chaptor 02. 네트워크 모델](https://github.com/ERIN56/CS-STUDY/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%89%BD%EA%B2%8C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%86%B5%EC%8B%A0%EA%B3%BC%20%EC%BB%B4%ED%93%A8%ED%84%B0%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/chapter02.md)
   * 01 계층 구조의 개념
     1. 계층적 모듈 구조
     2. 프로토콜 설계 시 고려 사항
