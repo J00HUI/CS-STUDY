@@ -70,7 +70,7 @@
   * 04 다항 코드
     1. 오류 검출
     2. 다항 코드
-  * 요약
+  * [요약](https://github.com/ERIN56/CS-STUDY/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%89%BD%EA%B2%8C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%86%B5%EC%8B%A0%EA%B3%BC%20%EC%BB%B4%ED%93%A8%ED%84%B0%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/chapter04_summary.md)
   * 현장의 목소리 02 : 네트워크 엔지니어의 황당한 이야기 모음
 
 #### 💎 Chaptor 05. MAC 계층
