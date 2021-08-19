@@ -249,3 +249,9 @@ LAP는 비동기 응답 모드로 동작하기 때문에 그림의 (b)처럼 종
 
 연결 해제의 경우에도 임의의 호스트에서 DISC 명령을 전송하고, 이를 수신한 측에서 UA 응답을 함으로써 완료된다.    
 
+</br>
+</br>
+
+![image](https://user-images.githubusercontent.com/83942393/130029188-85e4f106-7925-4692-b18a-6bb5c75a81fe.png)
+
+
