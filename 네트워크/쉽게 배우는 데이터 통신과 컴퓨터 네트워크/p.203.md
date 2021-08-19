@@ -200,13 +200,13 @@ Final의 의미로 사용한다.
 * 비번호 프레임은 Type과 Modifier 필드를 합해 총 5비트로 다음과 같은 프레임을 정의한다.
 </br>
 
-* SABM(Set ABM) : 비동기 균형(Asynchronous Balanced) 모드의 연결 설정을 요구한다.
-* SNRM(Set NRM) : 정규 응답(Normal Reponse) 모드의 연결 설정을 요구한다.
-* SARM(Set ARM) : 비동기 응답(Asynchronous Response) 모드의 연결 설정을 요구한다.
-* DISC(DISConnect) : 연결 설정 해제를 요구한다.
-* RSET(ReSET) : 비정상적인 프로토콜의 동작에 따른 리셋 기능을 수행한다.
-* FRMR(FRaMe Reject) : 비정상적인 프레임의 수신을 거부한다.
-* UA(Unnumbered ACK) : 비번호 프레임에 대한 응답 기능을 수행한다.
+* **SABM** (Set ABM) : 비동기 균형(Asynchronous Balanced) 모드의 연결 설정을 요구한다.
+* **SNRM** (Set NRM) : 정규 응답(Normal Reponse) 모드의 연결 설정을 요구한다.
+* **SARM** (Set ARM) : 비동기 응답(Asynchronous Response) 모드의 연결 설정을 요구한다.
+* **DISC** (DISConnect) : 연결 설정 해제를 요구한다.
+* **RSET** (ReSET) : 비정상적인 프로토콜의 동작에 따른 리셋 기능을 수행한다.
+* **FRMR** (FRaMe Reject) : 비정상적인 프레임의 수신을 거부한다.
+* **UA** (Unnumbered ACK) : 비번호 프레임에 대한 응답 기능을 수행한다.
 
 SNRM, SABM, SARM은 연결 설정을 요구할 때 사용하며, 표와 같은 세 가지 연결 모드에 적용된다.    
 
