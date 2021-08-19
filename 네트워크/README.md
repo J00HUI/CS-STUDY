@@ -1,7 +1,7 @@
 # 💡 네트워크
 </br>
 
-* [FTP](https://github.com/ERIN56/CS-STUDY/tree/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
+* [FTP](https://github.com/ERIN56/CS-STUDY/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/FTP.md)
 </br>
 
 ---
