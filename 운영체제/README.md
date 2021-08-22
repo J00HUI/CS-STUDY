@@ -47,4 +47,11 @@
 #### 💎 Chapter 03 프로세스와 스레드
 
 #### 💎 Chapter 04 병행 프로세스와 상호배제
+</br>
+</br>
+
+
+### <img src="https://user-images.githubusercontent.com/83942393/130344518-d95fc1b7-c264-4dcd-a39f-e6c1d9e548c8.png" width="6%" height="6%"></img> 쉽게 배우는 운영체제
+---
+
   
