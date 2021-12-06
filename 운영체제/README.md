@@ -12,6 +12,7 @@
  * [7장 Linux](https://github.com/ERIN56/CS-STUDY/blob/master/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/OS%EA%B0%80%20%EB%B3%B4%EC%9D%B4%EB%8A%94%20%EA%B7%B8%EB%A6%BC%EC%B1%85/7%EC%9E%A5.md)
  * [8장 Mac OS와 기타 OS](https://github.com/ERIN56/CS-STUDY/blob/master/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/OS%EA%B0%80%20%EB%B3%B4%EC%9D%B4%EB%8A%94%20%EA%B7%B8%EB%A6%BC%EC%B1%85/8%EC%9E%A5.md)
  * [부록) OS의 가상화, 기타 OS](https://github.com/ERIN56/CS-STUDY/blob/master/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/OS%EA%B0%80%20%EB%B3%B4%EC%9D%B4%EB%8A%94%20%EA%B7%B8%EB%A6%BC%EC%B1%85/%EB%B6%80%EB%A1%9D.md)
+</br>
 
 ### <img src="https://user-images.githubusercontent.com/83942393/125384033-49c23100-e3d3-11eb-8357-1aac8fea61fc.png" width="6%" height="6%"></img> 운영체제(그림으로 배우는 구조와 원리)
 ---
