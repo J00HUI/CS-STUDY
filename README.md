@@ -15,8 +15,8 @@
 #### 💡 [네트워크](https://github.com/ERIN56/CS-STUDY/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/README.md) </br>
 #### 💡 데이터베이스
 #### 💡 컴퓨터구조
-#### 💡 자료구조
-#### 💡 알고리즘
+#### 💡 [자료구조](https://github.com/J00HUI/CS-STUDY/blob/master/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/README.md)
+#### 💡 [알고리즘](https://github.com/J00HUI/Algorithm)
 
 </br>
 </br>
